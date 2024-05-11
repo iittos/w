@@ -12,7 +12,7 @@ body {
   user-select: none;
 }
 
-.caveat-<uniquifier> {
+.caveat {
   font-family: "Caveat", cursive;
   font-optical-sizing: auto;
   font-weight: 400;
