@@ -65,19 +65,19 @@ a {
 
 .link1:hover {
   color: #f44336;
-  background-color: #000000;
+  background-color: #ffffff;
   transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out;
 }
 /*
 .link2:hover {
   color: #351c75; 
-  background-color: #000000; 
+  background-color: #ffffff; 
   transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out;
 }
 */
 .link3:hover {
   color: #2986cc;
-  background-color: #000000;
+  background-color: #ffffff;
   transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out;
 }
 
