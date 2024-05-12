@@ -1,7 +1,7 @@
 body {
-  background-color: black;
+  background-color: white;
   font-family: "Caveat", sans-serif;
-  color: white;
+  color: black;
   display: grid;
   place-items: center;
   scroll-behavior: smooth;
@@ -27,8 +27,8 @@ h2 {
 }
 
 h2:hover {
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
   padding: 10px;
 }
 
@@ -38,8 +38,8 @@ h1 {
 }
 
 h1:hover {
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
   padding: 10px;
 }
 
@@ -58,7 +58,7 @@ img {
 /* Links animations */
 
 a {
-  color: #ffffff;
+  color: #000000;
   text-decoration: none;
   transition: color 0.5s ease-in-out;
 }
@@ -187,13 +187,13 @@ li:hover::after {
 }
 
 .flip-card-front {
-  color: #ffffff;
-  background-color: #000000;
+  color: #000000;
+  background-color: #ffffff;
 }
 
 .flip-card-back {
-  color: #000000;
-  background-color: #ffffff;
+  color: #ffffff;
+  background-color: #000000;
 }
 
 .flip-card-back {
