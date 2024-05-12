@@ -192,8 +192,8 @@ li:hover::after {
 }
 
 .flip-card-back {
-  color: #ffffff;
-  background-color: #000000;
+  color: #000000;
+  background-color: #ffffff;
 }
 
 .flip-card-back {
