@@ -199,3 +199,30 @@ li:hover::after {
 .flip-card-back {
   transform: rotateY(180deg);
 }
+
+.highlighted-text {
+  display: inline-block;
+  position: relative;
+  font-size: 24px;
+  padding: 10px 20px;
+  transition: all 0.3s ease;
+  background-color: transparent;
+  color: black;
+  text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
+
+.highlighted-text a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.highlighted-text:hover {
+  background-color: black;
+  color: white;
+  font-size: 28px;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+.highlighted-text:hover a {
+  color: inherit;
+}
