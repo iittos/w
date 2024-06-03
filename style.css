@@ -58,7 +58,7 @@ img {
 /* Links animations */
 
 a {
-  color: #ffffff;
+  color: #000000;
   text-decoration: none;
   transition: color 0.5s ease-in-out;
 }
